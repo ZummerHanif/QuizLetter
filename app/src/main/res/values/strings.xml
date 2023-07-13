@@ -3,4 +3,6 @@
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
     <string name="profile_image_description" />
+    <string name="drawer_open" />
+    <string name="drawer_close" />
 </resources>
